@@ -1,9 +1,9 @@
-## <p align="center">Sou **Jhonathan Carvalho**, desenvolvedor de software! 👋</p>
+## <p align="center">Sou **Jhonathan Carvalho**, desenvolvedor de software! ⭐ </p>
 
-### <p align="center">Bem-vindo ao meu perfil no GitHub! 👋</p>
+### <p align="center">Bem-vindo ao meu perfil no GitHub! 💜</p>
 
 ### <p align="justify"> 
-  👨‍💻 Sou desenvolvedor de software apaixonado por tecnologia e inovação, sempre buscando novas formas de resolver problemas complexos através do desenvolvimento de aplicações eficientes e bem estruturadas. Aqui no meu GitHub, você encontrará projetos variados que mostram minha especialização em desenvolvimento com C#. Explore meus repositórios e conheça um pouco mais sobre meu trabalho e minhas ideias!
+👨‍💻 Sou desenvolvedor de software apaixonado por tecnologia e inovação, sempre buscando novas formas de resolver problemas complexos através do desenvolvimento de aplicações eficientes e bem estruturadas. Aqui no meu GitHub, você encontrará projetos variados que mostram minha especialização em desenvolvimento com C#. Explore meus repositórios e conheça um pouco mais sobre meu trabalho e minhas ideias!
 </p>
 
 ### 💻 Linguagens de Programação: 
