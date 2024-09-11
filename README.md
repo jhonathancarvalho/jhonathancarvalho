@@ -36,11 +36,11 @@
 ### 📚 Formação e Certificações:
 - Graduado em **Direito**.
 - Atualmente em transição de carreira para **Desenvolvimento de Software**.
-- Estudando para obter a certificação **Microsoft Certified: ASP.NET Core Certification**.
+- Estudando para obter a certificação **Desenvolver um aplicativo Web no ASP.NET Core que consome uma API**.
 
 ### 🌱 O que estou aprendendo atualmente:
 - Aperfeiçoando minhas habilidades em **desenvolvimento backend**, incluindo a criação e integração de **APIs de inteligência artificial** em meus projetos.
-- Estudando para obter a certificação **Microsoft Certified: ASP.NET Core Certification**.
+- Estudando para obter a certificação **Desenvolver um aplicativo Web no ASP.NET Core que consome uma API**.
 
 ### 💬 Fale comigo:
 Se quiser conversar sobre projetos, ideias ou colaborações, sinta-se à vontade para entrar em contato pelos links abaixo!
