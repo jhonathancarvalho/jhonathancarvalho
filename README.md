@@ -1,10 +1,10 @@
-#  Olá, me chamo Jhonathan Carvalho! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Jhonathan Carvalho! 
+## Bem vindo ao meu perfil GitHub! 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Este portfólio foi criado para destacar meu trabalho e minha trajetória profissional. Explore seções onde descrevo o processo de construção e veja exemplos concretos de projetos que realizei, <strong>evidenciando</strong> minha experiência e resultados obtidos.
+  Este GitHub foi criado para destacar meu trabalho e minha trajetória profissional. Explore seções onde descrevo o processo de construção e veja exemplos concretos de projetos que realizei, <strong>evidenciando</strong> minha experiência e resultados obtidos.
 </p>
 
 <p align="left">
