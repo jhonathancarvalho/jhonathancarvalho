@@ -1,5 +1,5 @@
-# Olá, sou Jhonathan Carvalho, Desenvolvedor de Software.
-### Conheça um pouco de mim...
+#  Olá, me chamo Jhonathan Carvalho! 
+## Bem vindo ao meu perfil GitHub 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -28,4 +28,7 @@
 <a href="https://www.instagram.com/jhonathancsouza/" target="_blank"><img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/marciusbezerra" target="_blank"><img height="20" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tidevcarvalho/" target="_blank"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/jhonathancarvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
