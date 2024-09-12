@@ -55,7 +55,6 @@ Se quiser conversar sobre projetos, ideias ou colaborações, sinta-se à vontad
 <a href="https://www.instagram.com/jhonathancsouza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://t.me/yourusername" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
-
 </div>
 
 
