@@ -1,4 +1,4 @@
-2
+3
 ## <p align="center">Sou **Jhonathan Carvalho**, desenvolvedor de software! ⭐ </p>
 
 ### <p align="center">Bem-vindo ao meu perfil no GitHub! 💜</p>
