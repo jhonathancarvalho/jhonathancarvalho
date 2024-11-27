@@ -4,51 +4,25 @@
 ### <p align="center">Bem-vindo ao meu perfil no GitHub! 💜</p>
 
 ### <p align="justify"> 
-👨‍💻 Sou desenvolvedor de software apaixonado por tecnologia e inovação, sempre buscando novas formas de resolver problemas complexos através do desenvolvimento de aplicações eficientes e bem estruturadas. Aqui no meu GitHub, você encontrará projetos variados que mostram minha especialização em desenvolvimento com C#. Explore meus repositórios e conheça um pouco mais sobre meu trabalho e minhas ideias!
-</p>
 
-### 💻 Linguagens de Programação: 
-- **C#** 
-- **.NET** 
-- **JavaScript**
-- **HTML/CSS**
-- **SQL**
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções criativas para problemas complexos. Aqui, você encontrará projetos que refletem meu aprendizado e minhas habilidades, especialmente com C# e .NET.
 
-### 💼 Ferramentas e Tecnologias:
-- **Visual Studio**
-- **Entity Framework**
-- **ASP.NET**
-- **Git & GitHub**
-- **jQuery, AJAX**
+### 🏆 Habilidades
 
-### 🚀 Áreas de Interesse:
-- Desenvolvimento Web
-- Aplicações Desktop
-- Integrações e APIs
-- Bancos de Dados
-- Melhoria de Performance
+Linguagens: C#, .NET, JavaScript, SQL, HTML/CSS
+Ferramentas: Visual Studio, Entity Framework, ASP.NET, Git & GitHub
+Áreas de Interesse: APIs, Desenvolvimento Web e Desktop, Bancos de Dados
 
-### 🏆 Contribuições e Projetos:
-- Desenvolvimento de aplicações web usando **ASP.NET Core** e **Entity Framework**.
-- Criação de bibliotecas e pacotes em C# disponíveis como projetos open-source.
-- Desenvolvimento de ferramentas de produtividade para desenvolvedores utilizando C#.
-- Contribuição em fóruns e comunidades de C#, ajudando outros desenvolvedores a resolver problemas comuns.
-
-### 📚 Formação e Certificações:
-- Graduado em **Direito**.
-- Atualmente em transição de carreira para **Desenvolvimento de Software**.
-- Estudando para obter a certificação emitida pela **Microsoft**.
-
-### 🌱 O que estou aprendendo atualmente:
-- Aperfeiçoando minhas habilidades em **desenvolvimento backend**, incluindo a criação e integração de **APIs de inteligência artificial** em meus projetos.
-- Estudando para obter a certificação **Desenvolver um aplicativo Web no ASP.NET Core que consome uma API**.
+### 📚 O que estou aprendendo:
+Atualmente, estou aperfeiçoando o desenvolvimento backend e explorando a integração de APIs de inteligência artificial.
 
 ### 💬 Fale comigo:
 Se quiser conversar sobre projetos, ideias ou colaborações, sinta-se à vontade para entrar em contato pelos links abaixo!
 
 ---
 
-<div>
+
+<div align="center">
 <a href="https://wa.me/5527996202811" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="mailto:ti.dev.carvalho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.facebook.com/jhonathancarvalhodev/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -57,5 +31,7 @@ Se quiser conversar sobre projetos, ideias ou colaborações, sinta-se à vontad
 <a href="https://www.instagram.com/jhonathancarvalho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://t.me/jhonathancarvalho" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
+
+---
 
 
