@@ -24,7 +24,7 @@ kgkggrk
 <p align="center">
   <a href="mailto:ti.dev.carvalho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-512BD4?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  </a>f
   <a href="https://www.linkedin.com/in/jhonathancarvalho/">
     <img src="https://img.shields.io/badge/LinkedIn-512BD4?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
