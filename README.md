@@ -1,13 +1,12 @@
 vhv<h3 align="center">Jhonathank Carvalho · Desenvolvedor de Software .NET & C#</h3>
-kgkggrk
-<p align="center">
+kgkggrk@ k <p align="center">km
   Repositório com projetos de backend desenvolvidos com C# e .NET, aplicando práticas modernas de engenharia de software. Os códigos refletem uma abordagem objetiva, limpa e voltada para resolução de problemas reais.
 </p>
 
 <h4 align="center">Tecnologias</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat&logo=csharp&logoColor=white" alt="CSharp" />
+  <img src="https://img.shields.io/badge/kCSharp-512BD4?style=flat&logo=csharp&logoColor=white" alt="CSharp" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/SQL_Server-512BD4?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
