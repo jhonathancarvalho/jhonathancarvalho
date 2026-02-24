@@ -1,4 +1,4 @@
-<h3 align="center">Jhonathank Carvalho  k· Desenvolvedor de Software .NET & C#</h3>
+<h3 align="center">Jhonathank Carvalho  · Desenvolvedor de Software .NET & C#</h3>
 <p align="center">km
   Repositório com projetos de backend desenvolvidos com C# e .NET, aplicando práticas modernas de engenharia de software. Os códigos refletem uma abordagem objetiva, limpa e voltada para resolução de problemas reais.
 </p>
@@ -23,7 +23,7 @@
 <p align="center">
   <a href="mailto:ti.dev.carvalho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-512BD4?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>f
+  </a>
   <a href="https://www.linkedin.com/in/jhonathancarvalho/">
     <img src="https://img.shields.io/badge/LinkedIn-512BD4?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
