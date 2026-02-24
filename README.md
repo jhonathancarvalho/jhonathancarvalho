@@ -1,4 +1,4 @@
-ggfbthhkghgg<h3 align="center">Jhonathank Carvalho  k· Desenvolvedor de Software .NET & C#</h3>
+<h3 align="center">Jhonathank Carvalho  k· Desenvolvedor de Software .NET & C#</h3>
 <p align="center">km
   Repositório com projetos de backend desenvolvidos com C# e .NET, aplicando práticas modernas de engenharia de software. Os códigos refletem uma abordagem objetiva, limpa e voltada para resolução de problemas reais.
 </p>
@@ -27,7 +27,7 @@ ggfbthhkghgg<h3 align="center">Jhonathank Carvalho  k· Desenvolvedor de Softwar
   <a href="https://www.linkedin.com/in/jhonathancarvalho/">
     <img src="https://img.shields.io/badge/LinkedIn-512BD4?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/5527996202811">
+  <a href="https://wa.me/393928312228">
     <img src="https://img.shields.io/badge/WhatsApp-512BD4?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
