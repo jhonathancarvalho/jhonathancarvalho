@@ -1,4 +1,4 @@
-gtuvghgvggttggtthyfvgftgfhfggtggt<p align="center">
+tgtuvghgvggttggtthyfvgftgfhfggtggt<p align="center">
   Repository con progetti backend sviluppati in C# e .NET, applicando pratiche moderne di ingegneria del software.
   Il codice riflette un approccio pulito, strutturato e orientato alla risoluzione di problemi reali.
 </p>
